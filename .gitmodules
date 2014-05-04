@@ -1,0 +1,4 @@
+[submodule "js/famous"]
+	path = js/famous
+	url = https://github.com/Famous/famous.git
+	branch = develop
